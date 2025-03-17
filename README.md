@@ -1,0 +1,2 @@
+# Nutriplan-Personalized-Nutrition-and-Diet-Planning-Using-AI
+NutriPlan is an AI-powered web app for personalized nutrition and diet planning. It allows users to create dietary plans and search foods using the Nutritionix database. The AI provides food recommendations based on user preferences and nutritional needs, displaying nutritional data and calculating calorie requirements using the EER equation.
