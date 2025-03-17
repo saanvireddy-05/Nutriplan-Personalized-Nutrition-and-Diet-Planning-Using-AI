@@ -4,8 +4,11 @@ NutriPlan is a web-based application that uses Al and the Nutritionix database t
 Installation Guide
 
 1.Install python 3.
+
 2.Install flask using pip install flask
+
 3.Navigate to your project directory
+
 4.Run the server using python flask_server.py
 
 Usage
