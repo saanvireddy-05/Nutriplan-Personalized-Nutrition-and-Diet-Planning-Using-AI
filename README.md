@@ -3,19 +3,19 @@ NutriPlan is a web-based application that uses Al and the Nutritionix database t
 
 Installation Guide
 
-To install Flask, run the following command:
-
-```bash
-pip install flask
-
-
 1.Install python 3.
 
-2.Install flask using pip install flask
+2.Install flask using 
+```bash
+pip install flask
+```
 
 3.Navigate to your project directory
 
-4.Run the server using python flask_server.py
+4.Run the server using 
+```bash
+python flask_server.py
+```
 
 Usage
 
